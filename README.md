@@ -23,4 +23,4 @@ opponent a zero nim-sum. If you maintain this position throughout the game, you 
 
 In the project, the task is to implement an AI player based on Bouton’s method with an object-oriented approach. The AI player should 
 always perform the optimal play and win the game if the nim-sum of the piles is not zero in 
-the player's turn. In the "code-file", the implementation of this code is provided. In the "code-test-file", unit tests for the AI player class using JUnit 4 are provided to ensure it works properly.
+the player's turn. In the "code-file", the implementation of this code is provided. In the "code-test-file", unit tests for the AI player class using JUnit 4 are provided to ensure it works properly. "Gui.java" file is an attempt to create a Graphical User Interface to play the game, using Java Swing with several features like buttons, actions, text bars explored. Rest of the files are support files as the project falls under an object-oriented design.
